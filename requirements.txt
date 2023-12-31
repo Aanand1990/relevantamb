@@ -1,1 +1,7 @@
 pinecone-client==2.2.4
+langchain
+openai
+streamlit
+python-dotenv
+sentence-transformers
+pypdf
